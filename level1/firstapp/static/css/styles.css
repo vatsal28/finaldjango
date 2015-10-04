@@ -1,0 +1,36 @@
+.logo{
+    position:fixed;
+    left: 30%;
+    right:50%;
+    top:15%;
+}
+
+.search_form{
+    position: relative;
+    left: 50%;
+ 
+}
+
+.header{
+	position:fixed;
+	right:0%;
+	top:0%;
+}
+
+.footer_right{
+	position:fixed;
+	right:0%;
+	bottom:0%;
+}
+
+.footer_left{
+	position:fixed;
+	left:0%;
+	bottom:0%;
+}
+
+.button{
+	position:relative;
+	top:10px;
+	left:70%;
+}
